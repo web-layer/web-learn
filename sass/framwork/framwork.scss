@@ -1,0 +1,13 @@
+@use "./varaible/colors" as *;
+
+.h2 {
+    color: $color-White;
+    font-size: 2.5rem;
+    span {
+        color: $Light-Slate-Blue;
+    }
+}
+
+.textcen {
+    text-align: center;
+}
